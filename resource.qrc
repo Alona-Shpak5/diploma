@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>img/25402.png</file>
+        <file>img/565503.png</file>
+        <file>img/w256h2561390727869addfile256.png</file>
+        <file>img/3240364.png</file>
+        <file>img/2535559.png</file>
+    </qresource>
+</RCC>

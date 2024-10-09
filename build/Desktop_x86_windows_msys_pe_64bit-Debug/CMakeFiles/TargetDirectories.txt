@@ -1,0 +1,9 @@
+C:/Users/Alona/Documents/Tests2/build/Desktop_x86_windows_msys_pe_64bit-Debug/CMakeFiles/Tests2.dir
+C:/Users/Alona/Documents/Tests2/build/Desktop_x86_windows_msys_pe_64bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Alona/Documents/Tests2/build/Desktop_x86_windows_msys_pe_64bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Alona/Documents/Tests2/build/Desktop_x86_windows_msys_pe_64bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/Alona/Documents/Tests2/build/Desktop_x86_windows_msys_pe_64bit-Debug/CMakeFiles/install.dir
+C:/Users/Alona/Documents/Tests2/build/Desktop_x86_windows_msys_pe_64bit-Debug/CMakeFiles/install/local.dir
+C:/Users/Alona/Documents/Tests2/build/Desktop_x86_windows_msys_pe_64bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/Alona/Documents/Tests2/build/Desktop_x86_windows_msys_pe_64bit-Debug/CMakeFiles/Tests2_autogen_timestamp_deps.dir
+C:/Users/Alona/Documents/Tests2/build/Desktop_x86_windows_msys_pe_64bit-Debug/CMakeFiles/Tests2_autogen.dir
